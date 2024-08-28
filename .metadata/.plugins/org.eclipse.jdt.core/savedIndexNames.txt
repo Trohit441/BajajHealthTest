@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Users\Rohit\Desktop\Bajaj Test\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2469040828.index
+1208108134.index
+1692504392.index
+10734151.index
